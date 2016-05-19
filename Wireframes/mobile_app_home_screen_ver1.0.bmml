@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="764" measuredH="631" mockupW="640" mockupH="573">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="482" y="58" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::LineChart" x="510" y="159" w="226" h="389" measuredW="187" measuredH="175" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::StickyNote" x="124" y="180" w="318" h="368" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>For%20first%20version.%20We%20will%20just%20do%20Live%20streaming%20of%20breath%20in%20charts.%20%0AChanges%20should%20be%20reflected%20in%20charts%20almost%20instantaneously.%0A%20%0AMust%20have%3A%0A%20%0A%20-%20%20Showing%20if%20Ida/Pingala%20is%20active.%0A%20%0AGood%20to%20have%3A%0A%20%0A-%20Left%20and%20Right%20Nostril%20data%20overlapped%20with%20ideal%20charts%20for%20Ida%20%26%20Pingala%0A%20%0AColor%20of%20graph%20will%20change%20based%20on%20breathing%20pattern%20compared%20with%20physical%20activity.%20e.g%20active%20breathing%20while%20running%20is%20good%20but%20might%20not%20be%20good%20while%20person%20is%20stationary%3B%20it%20might%20be%20a%20suggestion%20of%20mental%20stress%20and%20should%20be%20regarded%20as%20warning.%0A%20%0ARed%3A%20Alert%20to%20User%0ABlue%3A%20Neutral%0AGreen%3A%20Good</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Arrow" x="349" y="220" w="194" h="10" measuredW="150" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
